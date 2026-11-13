@@ -1,0 +1,21 @@
+Escuchando topic '23542' en localhost:9092. Cierra la ventana o presiona Ctrl+C para terminar.
+[13:06:35] particion 1 offset 0 | 0x3ba631 (3 bytes) -> {'temperature': 38.17, 'humidity': 70, 'wind_direction': 'NO'}
+[13:07:03] particion 1 offset 1 | 0x58d19a (3 bytes) -> {'temperature': 56.84, 'humidity': 51, 'wind_direction': 'O'}
+[13:07:23] particion 1 offset 2 | 0x6ac1e2 (3 bytes) -> {'temperature': 68.32, 'humidity': 60, 'wind_direction': 'O'}
+[13:07:51] particion 1 offset 3 | 0x47f124 (3 bytes) -> {'temperature': 46.04, 'humidity': 36, 'wind_direction': 'S'}
+[13:08:07] particion 1 offset 4 | 0x678a0a (3 bytes) -> {'temperature': 66.26, 'humidity': 65, 'wind_direction': 'O'}
+[13:08:28] particion 1 offset 5 | 0x4a465b (3 bytes) -> {'temperature': 47.53, 'humidity': 75, 'wind_direction': 'SO'}
+[13:08:43] particion 1 offset 6 | 0x4a828f (3 bytes) -> {'temperature': 47.68, 'humidity': 81, 'wind_direction': 'NE'}
+[13:09:03] particion 1 offset 7 | 0x3a39ce (3 bytes) -> {'temperature': 37.26, 'humidity': 57, 'wind_direction': 'E'}
+[13:09:22] particion 1 offset 8 | 0x510d50 (3 bytes) -> {'temperature': 51.87, 'humidity': 42, 'wind_direction': 'N'}
+[13:09:52] particion 1 offset 9 | 0x3161b9 (3 bytes) -> {'temperature': 31.6, 'humidity': 55, 'wind_direction': 'NO'}
+[13:10:07] particion 1 offset 10 | 0x39fd30 (3 bytes) -> {'temperature': 37.11, 'humidity': 38, 'wind_direction': 'N'}
+[13:10:32] particion 1 offset 11 | 0x5bfa23 (3 bytes) -> {'temperature': 58.86, 'humidity': 68, 'wind_direction': 'SO'}
+[13:11:01] particion 1 offset 12 | 0x53807c (3 bytes) -> {'temperature': 53.44, 'humidity': 15, 'wind_direction': 'S'}
+[13:11:16] particion 1 offset 13 | 0x65a6b7 (3 bytes) -> {'temperature': 65.05, 'humidity': 86, 'wind_direction': 'NE'}
+[13:11:38] particion 1 offset 14 | 0x5cd5fa (3 bytes) -> {'temperature': 59.41, 'humidity': 63, 'wind_direction': 'O'}
+[13:12:01] particion 1 offset 15 | 0x4924bd (3 bytes) -> {'temperature': 46.81, 'humidity': 23, 'wind_direction': 'SE'}
+[13:12:26] particion 1 offset 16 | 0x4caa19 (3 bytes) -> {'temperature': 49.06, 'humidity': 67, 'wind_direction': 'NO'}
+[13:12:44] particion 1 offset 17 | 0x45ce06 (3 bytes) -> {'temperature': 44.67, 'humidity': 64, 'wind_direction': 'E'}
+[13:13:06] particion 1 offset 18 | 0x69d050 (3 bytes) -> {'temperature': 67.72, 'humidity': 10, 'wind_direction': 'N'}
+[13:13:25] particion 1 offset 19 | 0x5d9982 (3 bytes) -> {'temperature': 59.9, 'humidity': 48, 'wind_direction': 'O'}

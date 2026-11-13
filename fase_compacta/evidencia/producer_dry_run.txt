@@ -1,0 +1,4 @@
+Topic: 23542 | Key: sensor1
+JSON original: {"temperature": 77.23, "humidity": 33, "wind_direction": "N"} (61 bytes)
+Payload codificado: 0x78ad08 (3 bytes)
+JSON decodificado: {"temperature": 77.23, "humidity": 33, "wind_direction": "N"}
